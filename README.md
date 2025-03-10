@@ -1,1 +1,2 @@
-# fluent-bit-plugins
+# Fluent-bit-plugins для сервиса Logaas и Audaas
+
